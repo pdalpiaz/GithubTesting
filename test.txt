@@ -3,3 +3,6 @@
 3. test 5
 4 line 4
 Add line 5 
+mikes stuff
+more of mike stuff
+Duplicate stuff 
